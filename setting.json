@@ -1,6 +1,6 @@
 { 
     "autoAdd": False,
-    "autoBlock": False,
+    "autoBlock": True,
     "autoJoin": True,
     'autoCancel':{"on":True,"members":10},	
     "autoLeave": True,
